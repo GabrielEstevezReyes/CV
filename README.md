@@ -9,7 +9,7 @@ in.
 Here you will find 3 main folders, a wider description of each one can be found bellow.
 
 Hoover:
-  This is a folder containing C# scripts, they were used for a shool project, as I was the only programmer, I did the scripts
+  This is a folder containing C# scripts, they were used for a school project, as I was the only programmer, I did the scripts
   and my classmates did the assets, all that the scripts do is create a Hoover Ship that can adapt its rotation to the geometry below it.
   (Something like geometry wars, it uses raycast and planes to make the movement swift and enjoyable)
   
