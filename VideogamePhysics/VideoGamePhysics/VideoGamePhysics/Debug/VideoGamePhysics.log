@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\gabriel\Desktop\ProyectoFVJ_GPD0117 - 13166\VideoGamePhysics\VideoGamePhysics\Triangulo.h(6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\gabriel\Desktop\ProyectoFVJ_GPD0117 - 13166\VideoGamePhysics\VideoGamePhysics\Tetraedro.h(6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\gabriel\Desktop\ProyectoFVJ_GPD0117 - 13166\VideoGamePhysics\VideoGamePhysics\Main.cpp(37): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\gabriel\Desktop\ProyectoFVJ_GPD0117 - 13166\VideoGamePhysics\VideoGamePhysics\Main.cpp(42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabriel\Desktop\ProyectoFVJ_GPD0117 - 13166\VideoGamePhysics\VideoGamePhysics\Main.cpp(46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabriel\Desktop\ProyectoFVJ_GPD0117 - 13166\VideoGamePhysics\VideoGamePhysics\Main.cpp(141): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\gabriel\Desktop\ProyectoFVJ_GPD0117 - 13166\VideoGamePhysics\VideoGamePhysics\Main.cpp(193): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  VideoGamePhysics.vcxproj -> C:\Users\gabriel\Desktop\ProyectoFVJ_GPD0117 - 13166\VideoGamePhysics\Debug\VideoGamePhysics.exe
