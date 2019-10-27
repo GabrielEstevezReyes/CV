@@ -3,7 +3,7 @@ A peak at my work
 
 Since you are already here, please read this lines.
 
-This repository is new, before this, I only worked on repositories that belog to either other people or the studio that I currently work 
+This repository is new, before this, I only worked on repositories that belong to either other people or the studio that I currently work 
 in.
 
 Here you will find 3 main folders, a wider description of each one can be found bellow.
