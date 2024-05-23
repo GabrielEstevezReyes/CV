@@ -1,5 +1,5 @@
 # CV
-A peak at my work
+A peek at my work
 
 Since you are already here, please read this lines.
 
